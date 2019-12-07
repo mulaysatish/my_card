@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
                 child: ListTile(
                   leading: Icon(Icons.phone, color: Colors.teal),
                   title: Text(
-                    '+97 66 62 35 10',
+                    '+97 XX XX XX XX',
                     style: TextStyle(
                         fontSize: 20.0,
                         fontFamily: 'Solway',
